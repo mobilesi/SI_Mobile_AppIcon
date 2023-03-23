@@ -1,4 +1,5 @@
 # App Icons
+A command-line tool which simplifies the task of updating your Flutter app's launcher icon.
 
 ## Usage
 1. Clone this repository to your project 
